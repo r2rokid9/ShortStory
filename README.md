@@ -1,2 +1,2 @@
 # ShortStory
-Short story of my day
+Git used to demonstrate basic git usage for WEB-TEC classes.
